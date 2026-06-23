@@ -1,3 +1,6 @@
+# Multiple Inheritance
+# Multiple inheritance occurs when the child class inherits from more than one parent classes.
+
 class Employee:
     company = "ITC"
     name = "abc"
