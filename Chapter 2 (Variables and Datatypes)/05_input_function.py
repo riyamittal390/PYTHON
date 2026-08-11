@@ -1,3 +1,5 @@
+# input() function allows the user to take input from the keyboard as a string.
+
 # a = input ("Enter number 1 : ")
 # b = input ("Enter number 2 : ")
 # print ("Number a is : ", a)

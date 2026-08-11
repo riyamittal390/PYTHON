@@ -1,6 +1,6 @@
 # String ia a data type in python.
 # It is a sequence of characters enclosed in quotes.
-#We can primarily write a string in single, double, and triple quotes
+# We can primarily write a string in single, double, and triple quotes
 # It is immutable i.e. a string cannt be modified
 
 # a = "Hello"
