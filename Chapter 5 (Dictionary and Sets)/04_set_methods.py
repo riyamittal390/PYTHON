@@ -16,6 +16,6 @@ s.pop()
 # print(s.clear())                 // Output : None
 
 s1 = {1, 4, 45, 6}
-s2 = {4, 32, 21, 98}
+s2  = {4, 32, 21, 98}
 # print(s1.union(s2))                // Output : {32, 1, 98, 4, 21, 6, 45}
 # print(s1.intersection(s2))           // Output : {4}

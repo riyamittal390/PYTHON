@@ -1,3 +1,6 @@
+# There can be any number of elif statements.
+# Last else is executed only if all the conditions inside elif fails.
+
 a = int(input ("Enter your age : "))
 if(a >= 18):
     print("You are eligible to vote")
