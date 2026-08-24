@@ -18,3 +18,12 @@ goodDay()
 # Function Call
 
 # Whenever we want to call a function, we put the name of the function followed by parenthesis.
+
+
+
+
+
+
+# Function Definition
+
+# The part containing the exact set of imstructions which are executed during the function call.

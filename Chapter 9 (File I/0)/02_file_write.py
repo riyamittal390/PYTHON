@@ -9,7 +9,7 @@
 
 
 # f = open("file.txt")
-# lines = f.readlines()               # it will read all lines
+# lines = f.readlines()               # it will read all lines and returns a list
 # print(lines, type(lines))
 
 

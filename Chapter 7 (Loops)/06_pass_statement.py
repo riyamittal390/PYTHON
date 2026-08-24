@@ -1,3 +1,6 @@
+# Pass statement is a null statement in python.
+# It instructs to "do nothing".
+
 for i in range(857):
     pass
 

@@ -1,2 +1,2 @@
 with open("file.txt") as f:
-    print(f.read())               # no need to close the file explicitely
+    print(f.read())               # no need to close the file explicitly
